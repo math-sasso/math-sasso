@@ -32,7 +32,7 @@ Guitar🎸 (CBJR) <br />
 I also have my personnal works focused on environment protection 🌎 <br />
 
 **Languages:**<br/>
-:br: Porguese <br />
+:BR: Porguese <br />
 :fr: French <br />
 :us: English <br />
 
