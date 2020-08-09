@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/math_sasso/">
   <img align="left" alt="Matheus158257's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
- <br /> <br />
+ <br /> <br />:japan:
 
 I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
