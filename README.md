@@ -2,17 +2,17 @@
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)-->
 
-### Hello 👋, I'm [Matheus](https://Matheus158257.github.io) 
+### Hello 👋, I'm [Matheus](https://math-sasso.github.io) 
 
 <br/>
 <a href="https://www.linkedin.com/in/matheus-sasso">
-  <img align="left" alt="Matheus158257's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="math-sasso's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://www.facebook.com/matheus.sasso.79/">
-  <img align="left" alt="Matheus158257's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="math-sasso's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.instagram.com/math_sasso/">
-  <img align="left" alt="Matheus158257's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="math-sasso's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
  <br /> <br />
 
@@ -64,10 +64,12 @@ I also have my personnal works focused on environment protection 🌎 <br />
 <code><img height="50" src="https://image.flaticon.com/icons/svg/752/752605.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/1680/1680899.svg"></code>
 
+**Github Stats:**<br/>
+
+![math-sasso's github stats](https://github-readme-stats.vercel.app/api?username=math-sasso)
 
 
-![Matheus15827's github stats](https://github-readme-stats.vercel.app/api?username=math-sasso)
-
+**Top Languages:**<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=math-sasso)](https://github.com/anuraghazra/github-readme-stats)
 
