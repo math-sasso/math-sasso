@@ -22,7 +22,7 @@ I'm a **Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
 
 **Internation Projects:**<br/>
 Internation Research at Czech Republic -> [@Czech here](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) :flag_cz: <br />
-One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) :flag_fr: <br />
+One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) :fr: <br />
 
 **Personal Life:**<br/>
 Footbal⚽ (Vai Curintia)<br />
