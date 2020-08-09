@@ -16,13 +16,13 @@
 </a>
  <br /> <br />
 
-I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** :flag_br: <br />
-I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** :flag_br: <br />
+I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
+I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm a **Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
 
 **Internation Projects:**<br/>
-Internation Research at Czech Republic -> [@Czech here](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) :flag_cz: <br />
-One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) :fr: <br />
+Internation Research [@UNIGOU PAPER](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) in Czechia. <br />
+One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) in France. <br />
 
 **Personal Life:**<br/>
 Footbal⚽ (Vai Curintia)<br />
@@ -32,9 +32,9 @@ Guitar🎸 (CBJR) <br />
 I also have my personnal works focused on environment protection 🌎 <br />
 
 **Languages:**<br/>
-:flag_br: Porguese <br />
-:flag_fr: French <br />
-:flag_us: English <br />
+:br: Porguese <br />
+:fr: French <br />
+:us: English <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
   
@@ -45,10 +45,8 @@ I also have my personnal works focused on environment protection 🌎 <br />
   - 📊 Data Science
   - 🖼 Computer Vision
   - 📜 NLP
-  - 🤖 Robotics 
-  - 🎛 Embedded Systems
-  - 🛠 IoT
-- 📈 I’m learning About NLP;
+  - 🤖 IoT/Embedded Systems
+- 📈 I’m learning a lot About NLP this year;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <matheus.sasso17@gmail.com>;
 - 📝[Resume]()
