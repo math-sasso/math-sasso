@@ -14,15 +14,15 @@
 <a href="https://www.instagram.com/math_sasso/">
   <img align="left" alt="Matheus158257's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
- <br /> <br />:japan:
+ <br /> <br />
 
-I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
-I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
+I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** :flag_br: <br />
+I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** :flag_br: <br />
 I'm a **Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
 
 **Internation Projects:**<br/>
-Internation Research at Czech Republic -> [@Czech here](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002)  🇨🇿 <br />
-One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) ::🇫🇷:: <br />
+Internation Research at Czech Republic -> [@Czech here](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) :flag_cz: <br />
+One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) :flag_fr: <br />
 
 **Personal Life:**<br/>
 Footbal⚽ (Vai Curintia)<br />
@@ -32,9 +32,9 @@ Guitar🎸 (CBJR) <br />
 I also have my personnal works focused on environment protection 🌎 <br />
 
 **Languages:**<br/>
-🇧🇷 Porguese <br />
-🇫🇷 French <br />
-🇺🇸 English <br />
+:flag_br: Porguese <br />
+:flag_fr: French <br />
+:flag_us: English <br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
   
