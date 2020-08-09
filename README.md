@@ -18,11 +18,11 @@
 
 I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
-I'm a ** Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
+I'm a **Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
 
 **Internation Projects:**<br/>
 Internation Research at Czech Republic -> [@Czech here](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002)  🇨🇿 <br />
-One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) 🇫🇷 <br />
+One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) ::🇫🇷:: <br />
 
 **Personal Life:**<br/>
 Footbal⚽ (Vai Curintia)<br />
