@@ -20,18 +20,18 @@ I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [
 I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm a ** Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
 
-**Internation Projects:**
+**Internation Projects:**<br/>
 Internation Research at Czech Republic -> [@Czech here](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002)  🇨🇿 <br />
 One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) 🇫🇷 <br />
 
-**Personal Life:**
+**Personal Life:**<br/>
 Footbal⚽ (Vai Curintia)<br />
 Surf🏄 (UBATUBA <3)<br />
 Guitar🎸 (CBJR) <br />
 
 I also have my personnal works focused on environment protection 🌎 <br />
 
-**Languages:**
+**Languages:**<br/>
 🇧🇷 Porguese <br />
 🇫🇷 French <br />
 🇺🇸 English <br />
@@ -56,7 +56,7 @@ I also have my personnal works focused on environment protection 🌎 <br />
 
 <!--END_SECTION:waka-->
 
-**Languages and Tools:**  
+**Languages and Tools:**  <br/>
 
 <code><img height="50" src="https://image.flaticon.com/icons/svg/2861/2861557.svg"></code>
 <code><img height="50" src="https://image.flaticon.com/icons/svg/3190/3190604.svg"></code>
