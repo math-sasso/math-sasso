@@ -36,7 +36,6 @@ I also have my personnal works focused on environment protection 🌎 <br />
 :fr: French <br />
 :us: English <br />
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
   
 **Miscellaneous:**
 
