@@ -18,7 +18,7 @@
 
 I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
-I'm a **Machine Learning Engineer [@CPQD](https://www.cpqd.com.br/)**  <br />
+I'm a **Machine Learning Engineer [@Thoughtworks](https://www.thoughtworks.com/en-us)**  <br />
 
 **Internation Projects:**<br/>
 Internation Research [@UNIGOU PAPER](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) in Czechia. <br />
@@ -35,6 +35,7 @@ I also have my personnal works focused on environment protection 🌎 <br />
 :brazil: Portuguese <br />
 :fr: French <br />
 :us: English <br />
+:it: Italian <br />
 
   
 **Miscellaneous:**
