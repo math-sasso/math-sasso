@@ -8,11 +8,9 @@
 <a href="https://www.linkedin.com/in/matheus-sasso">
   <img align="left" alt="math-sasso's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
-<a href="https://www.facebook.com/matheus.sasso.79/">
-  <img align="left" alt="math-sasso's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
+
 <a href="https://www.instagram.com/math_sasso/">
-  <img align="left" alt="math-sasso's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="math-sasso's Instagram" width="30px" src="https://www.flaticon.com/br/icone-premium/facebook_4494475" />
 </a>
  <br /> <br />
 
