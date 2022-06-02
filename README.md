@@ -6,17 +6,17 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/matheus-sasso">
-  <a href="https://www.flaticon.com/br/icones-gratis/linkedin" title="linkedin ícones">Linkedin ícones criados por riajulislam - Flaticon</a>
+  Linkedin
 </a>
-
+<br /> 
 <a href="https://www.instagram.com/math_sasso/">
-  <img align="left" alt="math-sasso's Instagram" width="30px" src="https://www.flaticon.com/br/icones-gratis/instagram"/>
+  Instagran
 </a>
  <br /> <br />
 
-I'm a **Graduate Student 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
-I'm also a **Masters Student 👨🏽‍💼 in Artificial Inteligence [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
-I'm a **Machine Learning Engineer [@Thoughtworks](https://www.thoughtworks.com/en-us)**  <br />
+I'm an **Engineer 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
+I'm also a **MSc 👨🏽‍💼 in Computer Science [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
+I'm a **Machine Learning Engineer 💼 [@Thoughtworks](https://www.thoughtworks.com/en-us)**  <br />
 
 **Internation Projects:**<br/>
 Internation Research [@UNIGOU PAPER](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) in Czechia. <br />
