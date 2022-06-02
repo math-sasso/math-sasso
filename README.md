@@ -6,11 +6,11 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/matheus-sasso">
-  <img align="left" alt="math-sasso's LinkdeIN" width="30px" src="https://www.flaticon.com/br/icones-gratis/linkedin" />
+  <img align="left" alt="math-sasso's LinkdeIN" width="30px" src="https://www.flaticon.com/br/icones-gratis/linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/math_sasso/">
-  <img align="left" alt="math-sasso's Instagram" width="30px" src="https://www.flaticon.com/br/icones-gratis/instagram" />
+  <img align="left" alt="math-sasso's Instagram" width="30px" src="https://www.flaticon.com/br/icones-gratis/instagram"/>
 </a>
  <br /> <br />
 
