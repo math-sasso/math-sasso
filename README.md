@@ -6,7 +6,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/matheus-sasso">
-  <img align="left" alt="math-sasso's LinkdeIN" width="30px" src="https://www.flaticon.com/br/icones-gratis/linkedin"/>
+  <a href="https://www.flaticon.com/br/icones-gratis/linkedin" title="linkedin ícones">Linkedin ícones criados por riajulislam - Flaticon</a>
 </a>
 
 <a href="https://www.instagram.com/math_sasso/">
