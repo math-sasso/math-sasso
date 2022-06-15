@@ -23,9 +23,9 @@ Internation Research [@UNIGOU PAPER](https://incbacnews.wordpress.com/2017/01/20
 One year Exchange Program in Mechatronics at [@INSA HAUTS-DE-FRANCE ](https://www.insa-hautsdefrance.fr/) in France. <br />
 
 **Personal Life:**<br/>
-Footbal⚽ (Vai Curintia)<br />
-Surf🏄 (UBATUBA <3)<br />
-Guitar🎸 (CBJR) <br />
+Football⚽ <br />
+Surf🏄 <br />
+Music🎸 <br />
 
 I also have my personnal works focused on environment protection 🌎 <br />
 
