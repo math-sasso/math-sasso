@@ -16,7 +16,6 @@
 
 I'm an **Engineer 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm also a **MSc 👨🏽‍💼 in Computer Science [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
-I'm a **Machine Learning Engineer 💼 [@Thoughtworks](https://www.thoughtworks.com/en-us)**  <br />
 
 **Internation Projects:**<br/>
 Internation Research [@UNIGOU PAPER](https://incbacnews.wordpress.com/2017/01/20/unigou-2017-final-posters/#jp-carousel-2002) in Czechia. <br />
