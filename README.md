@@ -4,7 +4,7 @@
 
 ### Hello 👋, I'm [Matheus](https://math-sasso.github.io) 
 
-<br/>
+<!-- <br/>
 <a href="https://www.linkedin.com/in/matheus-sasso">
   Linkedin
 </a>
@@ -13,7 +13,7 @@
   Instagran
 </a>
  <br /> <br />
-
+ -->
 I'm an **Engineer 👨🏽‍💼 in Automation and Control Engineering [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 I'm also a **MSc 👨🏽‍💼 in Computer Science [@UNICAMP](https://www.unicamp.br/unicamp/)** in Brazil. <br />
 
